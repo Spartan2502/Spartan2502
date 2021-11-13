@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Spartan2502 
 - 👀 I’m interested in learn more and be self-taught in software development
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me if you want to contact me this is my email josealexorbech@hotmail.com
 
 <!---
